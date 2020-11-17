@@ -1,0 +1,11 @@
+{
+  "name": "mysql-demo",
+  "version": "1.0.0",
+  "description": "\"Demo project to integrate and use mysql with nodejs\"",
+  "main": "index.js",
+  "author": "\"Shubham Goel\"",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
